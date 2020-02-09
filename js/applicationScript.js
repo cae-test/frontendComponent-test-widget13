@@ -42,7 +42,7 @@ var init = function() {
 
   client = new Las2peerWidgetLibrary("$Microservice_Url$/test13", iwcCallback); 
  
-        console.log("test12345");
+        console.log("test123456");
 
 
 
